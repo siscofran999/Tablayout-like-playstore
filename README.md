@@ -8,4 +8,4 @@ gambar di atas adalah contoh apps playstore yang ada saat ini.
 
 dan ini adalah hasil dari saya ubah uinya.
 
-![alt tag](https://raw.githubusercontent.com/siscofran999/Tablayout-like-playstore/master/gambar.jpg)
+![alt tag](https://raw.githubusercontent.com/siscofran999/Tablayout-like-playstore/master/gambar02.jpg)
