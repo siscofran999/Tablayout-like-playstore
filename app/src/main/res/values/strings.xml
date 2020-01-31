@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TabChips</string>
+
+    <string name="hello_one_fragment">Hello One Fragment</string>
+    <string name="hello_second_fragment">Hello Second Fragment</string>
+    <string name="hello_three_fragment">Hello Three Fragment</string>
+
+</resources>
